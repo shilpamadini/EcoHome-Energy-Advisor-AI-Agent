@@ -187,12 +187,16 @@ cd ecohome-energy-advisor
 ```
 ### 2. create conda environment
 
-```conda create -n ecohome python=3.10 -y
+```
+conda create -n ecohome python=3.10 -y 
+
 ```
 
 ### 3. Activate conda environment
 
-```conda activate ecohome
+```
+conda activate ecohome
+
 ```
 
 ### 4. Install Dependencies
@@ -205,13 +209,16 @@ pip install -r requirements.txt
 ```
 ### 5. Configure Environment Variables
 
-```touch .env
+```
+touch .env
+
 ```
 Edit the .env to add keys for openai and openweathermap ai
 
 ```
 OPENAI_API_KEY=your_openai_key_here
 OPENWEATHERMAP_API_KEY=your_weather_api_key_here
+
 ```
 
 ### 6. Add Environment for Jupyter Lab
