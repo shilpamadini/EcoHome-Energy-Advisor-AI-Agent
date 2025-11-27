@@ -1,0 +1,35 @@
+Smart home automation can turn everyday energy-saving habits into effortless routines. When devices, sensors, and schedules work together, they reduce waste, shift usage to cheaper times, and ensure appliances only run when needed. Automated energy management not only improves efficiency but also increases comfort, convenience, and awareness of how energy is being used throughout the home.
+
+Use occupancy-based automation:
+- Install motion sensors in hallways, bathrooms, and common areas.
+- Automatically turn lights off after a few minutes of inactivity.
+- Use smart plugs to cut power to TVs, game consoles, and chargers when rooms are empty.
+
+Create energy-aware scenes and routines:
+- “Leaving home” scene: turn off all lights, set thermostat to eco, power down non-essential plugs.
+- “Good night” scene: dim or switch off most lights, reduce heating or cooling, ensure EV charging schedule is set.
+- “Vacation mode”: simulate occupancy with a few lights but disable most always-on loads.
+
+Schedule high-consumption devices:
+- Run dishwashers, washing machines, and dryers during off-peak pricing periods.
+- Coordinate with time-of-use tariffs and solar production windows.
+- Use automation rules that consider both time and electricity price (if available from your utility).
+
+Use smart plugs and power strips strategically:
+- Attach entertainment centers, office electronics, and small appliances to smart plugs.
+- Turn them off overnight or when you leave home.
+- Monitor plug-level energy usage to identify “vampire” loads.
+
+Integrate with weather and solar data:
+- On sunny days, schedule laundry and dishwashing while your solar production is high.
+- On hot days, pre-cool the home before peak pricing.
+- Reduce blinds and shades automatically based on sun position to limit heat gain.
+
+Use device-level insights:
+- Track energy use for major appliances to identify inefficient behavior or failing equipment.
+- Set alerts for abnormal consumption patterns (e.g., fridge running constantly).
+
+Keep automations simple and robust:
+- Start with a few impactful routines and refine over time.
+- Avoid overly complex rules that are hard to debug.
+- Periodically review automations to ensure they still match your lifestyle and tariff structure.

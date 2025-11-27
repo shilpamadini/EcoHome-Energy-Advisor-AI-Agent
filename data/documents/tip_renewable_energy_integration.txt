@@ -1,0 +1,32 @@
+As more households adopt rooftop solar and other renewable technologies, maximizing self-generated clean energy becomes increasingly important. Smart scheduling, flexible loads, and awareness of forecasted production help homeowners use more of the energy they generate instead of buying from the grid. With thoughtful planning, renewable energy can significantly lower electricity bills and reduce environmental impact.
+
+
+Maximize on-site solar utilization:
+- Schedule flexible loads (EV charging, water heating, dishwashing) during peak solar hours.
+- Use automation to detect when solar generation exceeds a threshold and trigger flexible devices.
+- Prefer running medium loads during the day rather than at night when using solar.
+
+Align EV charging with solar and tariffs:
+- Charge EVs primarily between late morning and mid-afternoon when solar output is strong.
+- If you have time-of-use pricing, combine cheap tariff windows with periods of solar surplus.
+- Use smart EV chargers that can react to solar output and grid signals.
+
+Use solar for thermal storage:
+- Pre-heat or pre-cool your home using solar energy so HVAC demand is lower in the evening.
+- If you have an electric water heater, schedule water heating during solar production peaks.
+
+Understand net metering and export rates:
+- If export value is low, prioritize self-consumption over exporting to the grid.
+- If export value is high, consider exporting during high-price periods while shifting your own use to cheaper times.
+
+Plan loads based on forecasted solar:
+- Use next-day solar irradiance and weather forecasts to plan heavy loads.
+- On cloudy days, avoid scheduling too many energy-intensive tasks simultaneously.
+
+Combine solar with batteries or flexible loads:
+- If you lack a physical battery, treat your EV and flexible appliances as “virtual storage”.
+- Charge EVs and run appliances when solar is abundant; scale back when production dips.
+
+Monitor system performance:
+- Track daily and monthly solar generation trends.
+- Compare expected vs actual solar output to detect shading or equipment issues.

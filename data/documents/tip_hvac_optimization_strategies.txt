@@ -1,0 +1,42 @@
+Efficient HVAC operation is one of the most impactful ways to reduce home energy costs while staying comfortable year-round. Small adjustments in thermostat settings, scheduling, airflow, and system maintenance can significantly cut electricity usage without sacrificing comfort. By understanding how heating and cooling systems respond to weather, occupancy, and pricing, households can optimize performance, extend equipment life, and lower utility bills.
+
+
+Set efficient baseline temperatures:
+- In cooling season, set your thermostat between 24–26°C (75–78°F) when home.
+- In heating season, set it between 19–21°C (66–70°F).
+- Use larger setbacks (2–4°C) when away for more than 2–3 hours.
+
+Use programmable or smart thermostats:
+- Create schedules based on occupancy: cooler/warmer in the evening, relaxed during work hours.
+- Enable “eco” mode when the home is unoccupied.
+- Avoid frequent manual overrides that fight the schedule.
+
+Optimize HVAC runtime with time-of-use pricing:
+- Pre-cool or pre-heat your home during off-peak hours when electricity is cheaper.
+- Let the temperature drift slightly during peak pricing windows while staying comfortable.
+- Combine TOU pricing with occupancy data to avoid conditioning an empty home.
+
+Zone your home when possible:
+- Close vents or reduce airflow to rarely used rooms.
+- Use smart vents or multi-zone HVAC if available.
+- Focus conditioning on bedrooms at night and living spaces in the evening.
+
+Keep air filters and equipment maintained:
+- Replace or clean filters every 1–3 months depending on usage and air quality.
+- Schedule annual HVAC maintenance to maintain efficiency.
+- Keep outdoor condenser units clear of debris, plants, and dust.
+
+Use ceiling fans and natural ventilation:
+- In summer, use ceiling fans to feel cooler at slightly higher thermostat settings.
+- Turn fans off when you leave the room (fans cool people, not spaces).
+- Use cross-ventilation (open windows strategically) during mild weather.
+
+Reduce thermal losses:
+- Seal drafts around windows and doors using weatherstripping and caulk.
+- Close blinds or curtains on hot days to reduce solar heat gain.
+- Use thick curtains or insulating shades in winter to reduce heat loss.
+
+Coordinate HVAC with other devices:
+- Avoid running heat-producing appliances (oven, dryer) during the hottest hours.
+- If you have solar, schedule cooling during sunny hours to use your own generation.
+- Let your smart home platform coordinate thermostat changes with occupancy sensors and door sensors.

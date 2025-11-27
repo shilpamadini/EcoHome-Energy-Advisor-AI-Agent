@@ -1,0 +1,36 @@
+# Vector DB + HTTP
+chromadb>=0.6.3
+httpx>=0.28.1
+
+# Jupyter
+ipykernel>=6.30.0
+jupyterlab>=4.2.5
+
+# LangChain & ecosystem
+langchain>=0.3.27
+langchain-core>=0.3.72
+langchain-community>=0.3.9
+langchain-openai>=0.3.28
+langchain-chroma>=0.2.6
+
+# LangGraph
+langgraph>=0.5.4
+
+# Data + DB
+pandas>=2.2.3
+sqlalchemy>=2.0.41
+
+# Env handling
+python-dotenv>=1.1.1
+
+# RAG evaluation
+ragas>=0.2.14
+
+# OpenAI client + PDF support
+openai>=1.60.0
+pypdf>=4.0.0
+
+# MLflow for experiment tracking
+mlflow>=2.14.1
+
+requests>=2.31.0

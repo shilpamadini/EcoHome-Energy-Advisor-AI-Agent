@@ -1,0 +1,34 @@
+Home batteries and electric vehicles offer powerful opportunities to store and strategically use energy. When charged during times of low prices or high solar production, stored energy can later offset expensive grid consumption. With the right settings and habits, energy storage systems can lower bills, support resilience during outages, and increase the value of renewable generation.
+
+Understand your storage role:
+- Home batteries and EVs can act as energy buffers between your solar system and the grid.
+- The goal is to charge when electricity is cheap or abundant (solar) and discharge when it is expensive.
+
+Optimize charging windows:
+- For home batteries, charge primarily during solar peak hours or low-price windows.
+- For EVs, set a charging schedule that avoids peak grid pricing while using solar when possible.
+- Avoid frequent, unnecessary full cycles to prolong battery life.
+
+Use time-of-use and demand charges to your advantage:
+- Discharge from storage to cover household loads during high-tariff periods.
+- Try to keep grid demand low during expensive hours and demand charge windows.
+- Use automation to stop discharging once tariffs fall back to normal or off-peak levels.
+
+Prioritize critical loads:
+- Identify essential loads (fridge, networking, some lights) for backup power planning.
+- Configure your storage system to support critical loads first during outages.
+
+Coordinate battery, EV, and flexible appliances:
+- Avoid charging the EV and home battery at full power at the same time if it causes high demand peaks.
+- Stagger loads: charge the EV after the home battery has partially filled or vice versa based on your goals.
+- Use smart rules to decide whether extra solar should go to the battery, the EV, or flexible appliances.
+
+Protect battery health:
+- Avoid keeping batteries at 100% state of charge for long periods unless needed for backup.
+- Limit deep discharges where possible; use a balanced state-of-charge window for daily cycling.
+- Follow manufacturer guidelines for optimal operating temperature and charging behavior.
+
+Use data to refine your strategy:
+- Track how often your storage is fully utilized vs underused.
+- Analyze days with highest savings to understand optimal charge/discharge patterns.
+- Adjust automation rules when tariffs, weather, or your lifestyle changes.

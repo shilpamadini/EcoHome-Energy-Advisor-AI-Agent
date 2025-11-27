@@ -1,0 +1,31 @@
+Energy needs change throughout the year, and adapting home routines to seasonal conditions can greatly improve efficiency. Weather patterns, daylight hours, and temperature shifts all influence how much energy heating, cooling, and appliances require. By anticipating these changes and adjusting behaviors, setpoints, and schedules, households can stay comfortable while keeping energy costs under control.
+
+Spring strategies:
+- Use mild weather to minimize HVAC usage by opening windows for natural ventilation.
+- Test and service cooling systems before the hottest days arrive.
+- Adjust thermostat schedules as days get longer and nights get warmer.
+
+Summer strategies:
+- Prioritize shading: close blinds and curtains during the hottest hours, especially on west-facing windows.
+- Use ceiling fans to feel 2–3°C cooler without lowering the thermostat as much.
+- Pre-cool the home in the morning when prices are lower or solar is strong.
+- Avoid using ovens and high-heat appliances in the afternoon.
+
+Autumn strategies:
+- Reduce cooling schedules and gradually introduce heating schedules.
+- Seal drafts around windows and doors before winter.
+- Use the moderate temperatures to identify baseline comfort settings without heavy HVAC use.
+
+Winter strategies:
+- Lower thermostat setpoints slightly and use warm clothing and blankets to stay comfortable.
+- Let sunlight in during the day by opening curtains on south-facing windows and close them at night.
+- Schedule high-power devices (dryer, dishwasher) during off-peak hours or times of lower overall demand.
+
+Seasonal schedule adjustments:
+- Review and update thermostat and automation schedules at least four times a year.
+- Adjust EV charging windows to align with changing sunrise/sunset and tariff timings.
+- Revisit your “away” and “vacation” modes before long trips in summer or winter.
+
+Use historical data:
+- Analyze last season’s usage to find periods of peak demand and cost.
+- Identify which devices contributed most to seasonal spikes and design rules to mitigate them next season.
