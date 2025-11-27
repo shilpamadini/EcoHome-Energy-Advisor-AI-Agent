@@ -4,7 +4,7 @@ An AI-powered energy optimization agent that helps customers reduce electricity 
 
 ## Overview
 
-EcoHome is a smart-home energy start-up that helps customers with solar panels, electric vehicles, and smart thermostats optimize their energy usage. The Energy Advisor agent provides personalized recommendations about when to run devices to minimize costs and carbon footprint.
+EcoHome is a smart-home energy application that helps customers with solar panels, electric vehicles, and smart thermostats optimize their energy usage. The Energy Advisor agent provides personalized recommendations about when to run devices to minimize costs and carbon footprint.
 
 ### Key Features
 
