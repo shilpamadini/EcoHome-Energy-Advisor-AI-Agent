@@ -1,0 +1,61 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+*.db
+
+# ---- Virtual Environments ----
+.env
+.venv/
+venv/
+env/
+
+# ---- Credentials & Config ----
+*.env
+.env.*
+.envrc
+secrets.json
+config.yaml
+
+# ---- Notebooks ----
+.ipynb_checkpoints/
+
+# ---- Logs, Outputs & Temp Files ----
+logs/
+*.log
+tmp/
+temp/
+*.tmp
+
+# ---- MLFlow ----
+mlruns/
+mlflow.db
+
+# ---- RAG / Vector DB ----
+chroma/
+chroma.db
+vectorstore/
+index/
+
+# ---- Cache ----
+.cache/
+**/.cache/
+
+# ---- OS / Editor Files ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Build / Packaging ----
+build/
+dist/
+*.egg-info/
+
+# ---- Test Artifacts ----
+coverage.xml
+htmlcov/
+
